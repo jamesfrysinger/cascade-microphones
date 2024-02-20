@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 <head>
-	<title>Fat Head Ribbon Microphone | Cascade Ribbon Microphones</title>
-	<meta name="description" content="The Cascade Fat Head Ribbon Microphone is the go-to microphone for recording guitar. Often described as the best value in pro audio."/>
+	<title>Fat Head BE Ribbon Microphone | Cascade Ribbon Microphones</title>
 
+	<meta name="description" content="The Cascade Fat Head BE Ribbon Microphone is the go-to microphone for recording guitar. Featuring the same ribbon motor and transformer to provide the classic Fat Head ribbon microphone sound."/>
 
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -16,7 +16,7 @@
 	<div class="minMax">
 	
 		<div class="breadcrumbs">
-			<p><a href="microphones">Microphones</a> > Fat Head</p>
+			<p><a href="microphones">Microphones</a> > Fat Head BE</p>
 		</div>
 
 
@@ -24,28 +24,18 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/fat-head/fat-head-main-black.png" alt="Ribbon Microphone Fat Head Product Photo" />
+					<img src="../images/prod-images/fat-head-be/fat-head-be-main.png" alt="Ribbon Microphone Fat Head BE Product Photo"/>
 				</div>
 				<div class="prod-photos-index right">
 					<ul class="clearfix">
 						<li>
-							<a href="images/prod-images/fat-head/fat-head-ribbon-microphone-98-B-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head/fat-head-thumb-1.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 1" />
+							<a href="../images/prod-images/fat-head-be/fat-head-be-ribbon-microphone-96‐BE-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-be/fat-head-be-thumb-1.jpg" alt="Ribbon Microphone Fat Head BE Product Photo Thumb 1" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head/fat-head-ribbon-microphone-98-B-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head/fat-head-thumb-2.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 2" />
-							</a>
-						</li>
-						<li>
-							<a href="images/prod-images/fat-head/fat-head-ribbon-microphone-98-G-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head/fat-head-thumb-3.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 3" />
-							</a>
-						</li>
-						<li>
-							<a href="images/prod-images/fat-head/fat-head-ribbon-microphone-98-G-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head/fat-head-thumb-4.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 4" />
+							<a href="../images/prod-images/fat-head-be/fat-head-be-ribbon-microphone-96‐BE-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-be/fat-head-be-thumb-2.jpg" alt="Ribbon Microphone Fat Head BE Product Photo Thumb 2" />
 							</a>
 						</li>
 					</ul>
@@ -53,21 +43,18 @@
 			</div>
 			<div class="prod-buy-details right">
 				<div class="prod-buy-details-vert">
-					<h1>Fat Head <br />
-					<span>Ribbon Microphone</span></h1>
-					<h4>The Famous Short Ribbon Microphone</h4>
+					<h1>Fat Head BE 
+						<br /><span>Ribbon Microphone</span></h1>
+					<h4>The new go-to microphone for recording guitar</h4>
 					<div class="prod-buy-form">
 						<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<p class="select-color">Select color</p>
-							<select class="dropkick" name="os0">
-								<option value="Brown Body/Gold Grill">Brown Body/Gold Grill $229.00</option>
-								<option value="Black Body/Silver Grill">Black Body/Silver Grill $229.00</option>
+							<select class="dropkick">
+								<option>Silver Fat Head BE $179.00</option>
 							</select>
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="CTRXZBW66R4DU">
-				            <input type="hidden" name="on0" value="Choose Color">
-				            <input type="hidden" name="currency_code" value="USD">
-				            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
+							<input type="hidden" name="hosted_button_id" value="3L8JXZ3RN2GHE">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
 							<button class="primary-btn" name="submit" alt="PayPal - The safer, easier way to pay online!">Buy Now</button>
 							<p class="pay-pal"><sub>*You will be redirected to PayPal</sub></p>
 						</form>-->
@@ -81,46 +68,62 @@
 		<section class="product-details grey-bg clearfix">
 			<div class="left left-col">
 				<article class="prod-desc">
-					<h4>Fat Head Details</h4>
-					<p>Unlike most ribbon motors designed today with an offset ribbon the new Cascade FAT HEAD houses a hand-tuned ribbon element that incorporates the legendary symmetrical ribbon design.</p>
-
-					<p>This design offers a true figure 8 pattern. The corrugated aluminum membrane itself is positioned in the center from front to back, thus producing a balanced audio input signal to both sides of the ribbon assembly.</p>
-
-					<p>This design is very useful when executing a mid-side or Blumlein recording set-up and also great for live stage use. The FAT HEAD warm full-bodied signature and increased sensitivity is what you would expect and demand from a professional ribbon microphone and the FAT HEAD delivers. The FAT HEAD is suited for guitar cabinets, drum over-heads, vocal, piano, horns, strings, and much more.</p>
+					<h4>Fat Head BE Details</h4>
+					<p>The FAT HEAD BE offers the same famous FAT HEAD sound (sonically the same as all of the other stock FAT HEAD'S) featuring the same ribbon motor and transformer - less aluminum case, wood box and premium shockmount.  The FAT HEAD BE has been described by Guitar Player Magazine as the new go to microphone for recording guitar.</p>
+					
 				</article>
 
 				<article class="prod-applications">
 					<h4>Suggested Applications</h4>
 					<ul class="clearfix">
 						<li class="tooltip">
-							<img src="images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
+							<img src="../images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
 							<span class="tooltiptext">Drums</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
+							<img src="../images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
 							<span class="tooltiptext">Electric/Acoustic Guitar</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
+							<img src="../images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - String Icon" />
 							<span class="tooltiptext">Stringed Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
+							<img src="../images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
 							<span class="tooltiptext">Horn Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Bajo Icon" />
-							<span class="tooltiptext">Banjo</span>
+							<img src="../images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
+							<span class="tooltiptext">Banjo/Mandolin/Dobro</span>
 						</li>
 					</ul>
+				</article>
+				<!--
+				<article class="prod-audio-video">
+					<h4>Audio/Video</h4>
+					<div class="video-player">
+						<img src="../images/hp-featured-videos/hp-featured-video-01-large.jpg" />
+						<div id="player"></div>
+					</div>
 				</article>
 
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/hp-featured-videos/hp-featured-video-01-large.jpg" alt="Ribbon Microphone Fat Head Video Sample Still Photo" />
+						<img src="../images/hp-featured-videos/hp-featured-video-01-large.jpg" />
 						<div id="player"></div>
 					</div>
+				</article>
+				-->
+				<article class="prod-reviews">
+					<h4>Reviews</h4>
+					
+					<p class="italic">Ribbon mics are sometimes used with, or as an alternative to, the classic Shure SM57 when miking guitar speakers. Unfortunately for home recorders, ribbons usually cost ten times the price of a 57. Priced only slightly higher than the Shure, the Cascade Fat Head BE ($179 street) changes all that. It houses a hand-tuned ribbon element incorporating a classic symmetrical design that offers a true figure-8 pattern.</p>
+					<p class="italic">The corrugated aluminum membrane is center-mounted to produce a balanced input signal on both sides of the ribbon. I first tested the Cascade at a recording session, where the engineer miked my amp with a 57 and the Fat Head. The ribbon mic was plugged straight into an interface, with no additional preamps. The result was some of the fattest, warmest recorded guitar tone I have ever heard. Even at home, with a significantly cheaper interface, the Fat Head delivered previously unheard low end and nuance. Not just for guitar, the final test was as an ambient mic at a drummer friend’s studio, putting it up against a ribbon mic costing ten times as much.</p>
+					<p class="italic">What little difference there was we found preferable. You can order upgrades and special preamps from Cascade but all these tests were conducted with the bare essentials (hence BE). For making great recorded sound available to guitarists of limited means, the Cascade Fat Head BE rates an Editors’ Pick.</p>
+					<p class="italic">KUDOS Rich, warm, full sound. Insanely low price for a ribbon mic.</p>
+					<p class="special-note">Guitar Player Magazine<br />
+					By Michael Ross / August 7, 2014</p>
 				</article>
 			</div>
 
@@ -171,10 +174,9 @@
 					<div class="prod-includes">
 						<h4>Included</h4>
 						<ul>
-							<li>FAT HEAD Ribbon Microphone</li>
-							<li>Mic Clip</li>
-							<li>Leatherette Pouch</li>
-							<li>Molded Flight case</li>
+							<li>FAT HEAD BE Ribbon Microphone</li>
+							<li>Microphone Clip</li>
+							<li>Vinyl Storage Pouch</li>
 						</ul>
 					</div>
 				</article>
@@ -248,4 +250,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

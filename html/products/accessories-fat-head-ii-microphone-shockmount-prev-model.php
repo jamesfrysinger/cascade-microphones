@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 <head>
-	<title>Fat Head Shockmount | Cascade Ribbon Microphones</title>
-	<meta name="description" content="The Cascade Fat Head Ribbon Microphone Shockmount is a perfect replacement or upgrade for your Fat Head Ribbon Microphone."/>
+	<title>Fat Head II Shockmount (Previous Model) | Cascade Ribbon Microphones</title>
+	<meta name="description" content="The Cascade Fat Head II Ribbon Microphone Shockmount is a perfect replacement or upgrade for your Fat Head II Ribbon Microphone."/>
 
-
+	
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -16,7 +16,7 @@
 	<div class="minMax">
 	
 		<div class="breadcrumbs">
-			<p><a href="microphones">Microphones</a> > Fat Head Shockmount</p>
+			<p><a href="microphones">Microphones</a> > Fat Head II Shockmount (Previous Model)</p>
 		</div>
 
 
@@ -24,23 +24,23 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/fat-head-shockmount/fat-head-shockmount-main.png" alt="Fat Head Shockmount Product Picture" />
+					<img src="../images/prod-images/fat-head-ii-shockmount-prev/fat-head-ii-shockmount-prev-main.png" alt="Fat Head II Shockmount (Previous Model) Product Image" />
 				</div>
 				
 			</div>
 			<div class="prod-buy-details right">
 				<div class="prod-buy-details-vert">
-					<h1>Fat Head Shockmount</h1>
+					<h1>Fat Head II Shockmount <span>(Previous Model)</span></h1>
 					<h4>Microphone Shockmount</h4>
 					<div class="prod-buy-form">
 						<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							<p class="select-color">Select Color</p>
+							<p class="select-color">Select color</p>
 							<select class="dropkick">
-								<option>Black Fat Head Shockmount $49.00</option>
+								<option>Black Fat Head II Shockmount $49.00</option>
 							</select>
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="B2B7YTTRAYSFA">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							<input type="hidden" name="hosted_button_id" value="UDWDVFTV45ZYY">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
 							<button class="primary-btn" name="submit" alt="PayPal - The safer, easier way to pay online!">Buy Now</button>
 							<p class="pay-pal"><sub>*You will be redirected to PayPal</sub></p>
 						</form>-->
@@ -54,8 +54,8 @@
 		<section class="product-details grey-bg clearfix">
 			<div class="left left-col">
 				<article class="prod-desc">
-					<h4>Fat Head Shockmount</h4>
-					<p>25mm Universal Microphone Shockmount. For use with Fat Head Microphone and similar sized microphones.</p>
+					<h4>Fat Head II Shockmount (Previous Model)</h4>
+					<p>33mm Universal Shockmount. For use with previous model Fat Head II Microphone and similar sized microphones.</p>
 					
 				</article>
 
@@ -66,7 +66,7 @@
 					<div class="prod-specs-list">
 						<ul>
 							<li class="prod-specs-list-cell">Type</li>
-							<li class="prod-specs-list-cell">Microphone Shockmount</li>
+							<li class="prod-specs-list-cell">Metal Microphone Shockmount</li>
 						</ul>
 					</div>
 					<div class="prod-includes">
@@ -146,4 +146,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

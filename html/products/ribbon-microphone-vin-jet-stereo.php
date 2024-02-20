@@ -2,12 +2,13 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 <head>
-	<title>Vin-Jet Ribbon Microphone | Cascade Ribbon Microphones</title>
+	<title>Vin-Jet Stereo Pair Ribbon Microphone | Cascade Ribbon Microphones</title>
 	<meta name="description" content="The VIN-JET long ribbon microphone is quickly becoming the new go-to ribbon microphone choice for home and professional recording studios. Featuring a 2 7/16” long ribbon of aluminum suspended in the field of a pair of Neodymium rare earth permanent magnets."/>
 
-	
+
+
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -16,7 +17,7 @@
 	<div class="minMax">
 	
 		<div class="breadcrumbs">
-			<p><a href="microphones">Microphones</a> > Vin-Jet</p>
+			<p><a href="microphones">Microphones</a> > Vin-Jet Stereo Pair</p>
 		</div>
 
 
@@ -24,50 +25,37 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/vin-jet/vin-jet-main-stock.png" alt="Ribbon Microphone Vin-Jet Product Image"  />
+					<img src="../images/prod-images/vin-jet-stereo/vin-jet-stereo-main.png" alt="Ribbon Microphone Vin-Jet Stereo Pair Product Image" />
 				</div>
 				<div class="prod-photos-index right">
 					<ul class="clearfix">
 						<li>
-							<a href="images/prod-images/vin-jet/vin-jet-ribbon-microphone-101‐B-A-101‐BL-A-3_2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/vin-jet/vin-jet-thumb-3.jpg" alt="Ribbon Microphone Vin-Jet Product Image Thumb 1" />
+							<a href="../images/prod-images/vin-jet-stereo/vin-jet-ribbon-microphone-201‐B-A-201‐BL-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/vin-jet-stereo/vin-jet-stereo-thumb-1.jpg" alt="Ribbon Microphone Vin-Jet Stereo Pair Product Image Thumb 1" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/vin-jet/vin-jet-ribbon-microphone-101‐B-A-101‐BL-A-1_2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/vin-jet/vin-jet-thumb-4.jpg" alt="Ribbon Microphone Vin-Jet Product Image Thumb 2" />
+							<a href="../images/prod-images/vin-jet-stereo/vin-jet-ribbon-microphone-201‐B-A-201‐BL-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/vin-jet-stereo/vin-jet-stereo-thumb-2.jpg" alt="Ribbon Microphone Vin-Jet Stereo Pair Product Image Thumb 2" />
 							</a>
 						</li>
-						<li>
-							<a href="images/prod-images/vin-jet/vin-jet-ribbon-microphone-101‐B-A-101‐BL-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/vin-jet/vin-jet-thumb-1.jpg" alt="Ribbon Microphone Vin-Jet Product Image Thumb 1" />
-							</a>
-						</li>
-						<li>
-							<a href="images/prod-images/vin-jet/vin-jet-ribbon-microphone-101‐B-A-101‐BL-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/vin-jet/vin-jet-thumb-2.jpg" alt="Ribbon Microphone Vin-Jet Product Image Thumb 2" />
-							</a>
-						</li>
-						
 					</ul>
 				</div>
 			</div>
 			<div class="prod-buy-details right">
 				<div class="prod-buy-details-vert">
-					<h1>Vin-Jet <br />
-						<span>Ribbon Microphone</span></h1>
+					<h1>Vin-Jet <span>Stereo Pair <br />
+					Ribbon Microphone</span></h1>
 					<h4>Long Ribbon Microphone</h4>
 					<div class="prod-buy-form">
 						<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<p class="select-color">Select option</p>
 							<select class="dropkick" name="os0">
-								<option value="VIN-JET">VIN-JET $289.00</option>
-								<option value="VIN-JET w/ Lundahl">VIN-JET w/ Lundahl $459.00</option>
-								<option value="VIN-JET  DELUXE">VIN-JET  DELUXE $369.00</option>
-								<option value="VIN-JET DELUXE w/Lundahl">VIN-JET DELUXE w/Lundahl $539.00</option>
+            					<option value="VIN-JET Stereo Pair">VIN-JET Stereo Pair $579.00</option>
+								<option value="VIN-JET Stereo Pair w/Lundahl">VIN-JET Stereo Pair w/Lundahl $919.00</option>
 							</select>
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="BQ4DYPD54D6Q8">
+							<input type="hidden" name="hosted_button_id" value="WVRUB2YQDTZH2">
 							<input type="hidden" name="on0" value="Choose Option">
 							<input type="hidden" name="currency_code" value="USD">
 							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
@@ -84,7 +72,7 @@
 		<section class="product-details grey-bg clearfix">
 			<div class="left left-col">
 				<article class="prod-desc">
-					<h4>Vin-Jet Details</h4>
+					<h4>Vin-Jet Stereo Pair Details</h4>
 					<p>The Cascade VIN-JET long ribbon microphone is quickly becoming the new go-to choice for home and professional recording studios alike. The VIN-JET is an exceptional value that competes with ribbon microphones that cost many times over. The VIN-JET is available from our site as well as from one of our fine dealers. The VIN-JET features Evidence Audio Wire and an open grill (no interior grill screening has been added) ensuring you of an open and detailed sound.</p>
 
 					<p>The Cascade VIN-JET ribbon microphone features a 2 7/16” long ribbon of aluminum suspended in the field of a pair of Neodymium rare earth permanent magnets. When the ribbon is exposed to sound it vibrates within the magnetic field and a tiny current is induced in the ribbon.</p>
@@ -98,27 +86,27 @@
 					<h4>Suggested Applications</h4>
 					<ul class="clearfix">
 						<li class="tooltip">
-							<img src="images/application-icons/singer.png" alt="Ribbon Microphone Application Uses - Vocals Icon" />
+							<img src="../images/application-icons/singer.png" alt="Ribbon Microphone Application Uses - Vocals Icon" />
 							<span class="tooltiptext">Vocals</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
+							<img src="../images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon"  />
 							<span class="tooltiptext">Drums</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitars Icon" />
+							<img src="../images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon"  />
 							<span class="tooltiptext">Electric/Acoustic Guitar</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
+							<img src="../images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon"  />
 							<span class="tooltiptext">Stringed Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
+							<img src="../images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon"  />
 							<span class="tooltiptext">Horn Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
+							<img src="../images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon"  />
 							<span class="tooltiptext">Banjo</span>
 						</li>
 					</ul>
@@ -127,7 +115,7 @@
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/prod-videos/video-vin-jet-01-large.jpg" alt="Ribbon Microphone Vin-Jet Video Sample Still Photo" />
+						<img src="../images/prod-videos/video-vin-jet-01-large.jpg" alt="Ribbon Microphone Vin-Jet Video Sample Still Photo"  />
 						<div id="player"></div>
 					</div>
 				</article>
@@ -174,19 +162,12 @@
 						</ul>
 					</div>
 					<div class="prod-includes">
-						<h4>Standard Includes</h4>
-						<ul style="margin-bottom:15px;">
-							<li>VIN-JET Long Ribbon Microphone</li>
-							<li>Leatherette Pouch</li>
-							<li>Mic clip</li>
-							<li>Polypropylene case</li>
-						</ul>
-
-						<h4>Deluxe Includes</h4>
+						<h4>Included</h4>
 						<ul>
-							<li>VIN-JET Long Ribbon Microphone</li>
-							<li>Deluxe Shockmount</li>
-							<li>Aluminum Case</li>
+							<li>(2) VIN- JET Ribbon Microphones</li>
+							<li>Aluminum case flight</li>
+							<li>Stereo Blumlein Bar</li>
+							<li>(2) Premium shockmount</li>
 						</ul>
 					</div>
 				</article>
@@ -260,4 +241,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

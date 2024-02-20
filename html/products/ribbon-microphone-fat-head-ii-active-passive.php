@@ -7,7 +7,7 @@
 
 
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -24,33 +24,33 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-main-black.png" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo" />
+					<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-main-black.png" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo" />
 				</div>
 				<div class="prod-photos-index right">
 					<ul class="clearfix">
 						<li>
-							<a href="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APB-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-1.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 1" />
+							<a href="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APB-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-1.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 1" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APB-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-2.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 2" />
+							<a href="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APB-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-2.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 2" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-3.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-3.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 3" />
+							<a href="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-3.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-3.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 3" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-4.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-4.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 4" />
+							<a href="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-4.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-4.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 4" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-5.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-5.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 5" />
+							<a href="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive ribbon-microphone-99‐APS-A-5.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-thumb-5.jpg" alt="Ribbon Microphone Fat Head II Active/Passive Product Photo Thumb 5" />
 							</a>
 						</li>
 					</ul>
@@ -120,27 +120,27 @@
 					<h4>Suggested Applications</h4>
 					<ul class="clearfix">
 						<li class="tooltip">
-							<img src="images/application-icons/singer.png" alt="Ribbon Microphone Application Uses - Vocals Icon" />
+							<img src="../images/application-icons/singer.png" alt="Ribbon Microphone Application Uses - Vocals Icon" />
 							<span class="tooltiptext">Vocals</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
+							<img src="../images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
 							<span class="tooltiptext">Drums</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
+							<img src="../images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
 							<span class="tooltiptext">Electric/Acoustic Guitar</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
+							<img src="../images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
 							<span class="tooltiptext">Stringed Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
+							<img src="../images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
 							<span class="tooltiptext">Horn Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
+							<img src="../images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
 							<span class="tooltiptext">Banjo/Mandolin/Dobro</span>
 						</li>
 					</ul>
@@ -149,7 +149,7 @@
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/prod-videos/video-fat-head-ii-passive-active-01-large.jpg" alt="Ribbon Microphone Video Sample Fat Head II Active/Passive" />
+						<img src="../images/prod-videos/video-fat-head-ii-passive-active-01-large.jpg" alt="Ribbon Microphone Video Sample Fat Head II Active/Passive" />
 						<div id="player"></div>
 					</div>
 				</article>
@@ -303,4 +303,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

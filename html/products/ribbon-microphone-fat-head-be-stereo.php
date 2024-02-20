@@ -7,7 +7,7 @@
 	<meta name="description" content="The Cascade Fat Head BE Ribbon Microphone Stereo Pair is the go-to microphone for recording guitar. Featuring the same ribbon motor and transformer to provide the classic Fat Head ribbon microphone sound."/>
 
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -24,23 +24,23 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/fat-head-be-stereo/fat-head-be-stereo-main.png" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo" />
+					<img src="../images/prod-images/fat-head-be-stereo/fat-head-be-stereo-main.png" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo" />
 				</div>
 				<div class="prod-photos-index right">
 					<ul class="clearfix">
 						<li>
-							<a href="images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-1.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 1" />
+							<a href="../images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-1.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 1" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-2.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 2" />
+							<a href="../images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-2.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 2" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-3.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-3.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 3" />
+							<a href="../images/prod-images/fat-head-be-stereo/fat-head-be-ribbon-microphone-96-BES-A-3.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head-be-stereo/fat-head-be-stereo-thumb-3.jpg" alt="Ribbon Microphone Fat Head BE Stereo Pair Product Photo Thumb 3" />
 							</a>
 						</li>
 					</ul>
@@ -84,23 +84,23 @@
 					<h4>Suggested Applications</h4>
 					<ul class="clearfix">
 						<li class="tooltip">
-							<img src="images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
+							<img src="../images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
 							<span class="tooltiptext">Drums</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
+							<img src="../images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
 							<span class="tooltiptext">Electric/Acoustic Guitar</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
+							<img src="../images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
 							<span class="tooltiptext">Stringed Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horn Icon" />
+							<img src="../images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horn Icon" />
 							<span class="tooltiptext">Horn Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
+							<img src="../images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjo Icon" />
 							<span class="tooltiptext">Banjo/Mandolin/Dobro</span>
 						</li>
 					</ul>
@@ -109,7 +109,7 @@
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/hp-featured-videos/hp-featured-video-01-large.jpg" />
+						<img src="../images/hp-featured-videos/hp-featured-video-01-large.jpg" />
 						<div id="player"></div>
 					</div>
 				</article>
@@ -117,7 +117,7 @@
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/hp-featured-videos/hp-featured-video-01-large.jpg" />
+						<img src="../images/hp-featured-videos/hp-featured-video-01-large.jpg" />
 						<div id="player"></div>
 					</div>
 				</article>
@@ -258,4 +258,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

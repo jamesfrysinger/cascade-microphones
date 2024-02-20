@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 <head>
-	<title>Stereo Blumlein Bar | Cascade Ribbon Microphones</title>
-	<meta name="description" content="The Cascade Stereo Blumlein Bar is a perfect replacement or upgrade for your stereo microphone placement setup."/>
+	<title>Fat Head II / Vin-Jet Microphone Shockmount | Cascade Ribbon Microphones</title>
+	<meta name="description" content="The Cascade Fat Head II / Vin-Jet Ribbon Microphone Shockmount is a perfect replacement or upgrade for your Fat Head II / Vin-Jet Ribbon Microphone."/>
 
 
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -16,7 +16,7 @@
 	<div class="minMax">
 	
 		<div class="breadcrumbs">
-			<p><a href="microphones">Microphones</a> > Stereo Blumlein Bar</p>
+			<p><a href="microphones">Microphones</a> > Fat Head II / Vin-Jet Microphone Shockmount</p>
 		</div>
 
 
@@ -24,23 +24,23 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/blumlein-bar/blumlein-bar-main.png" alt="Stereo Blumlein Bar Product Photo" />
+					<img src="../images/prod-images/fat-head-ii-shockmount-curr/fat-head-ii-shockmount-curr-main.png" alt="Fat Head II / Vin-Jet Microphone Shockmount Product Picture" />
 				</div>
 				
 			</div>
 			<div class="prod-buy-details right">
 				<div class="prod-buy-details-vert">
-					<h1>Stereo Blumlein Bar</h1>
+					<h1>Fat Head II / Vin-Jet Microphone Shockmount</h1>
 					<h4>Microphone Shockmount</h4>
 					<div class="prod-buy-form">
 						<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<p class="select-color">Select color</p>
 							<select class="dropkick">
-								<option>Stereo Blumlein Bar $115.00</option>
+								<option>Microphone Shockmount for Fat Head II / Vin-Jet $49.99</option>
 							</select>
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="RFHR2LZCYT79L">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+							<input type="hidden" name="hosted_button_id" value="SBB9FTDJ5LKUJ">
+							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
 							<button class="primary-btn" name="submit" alt="PayPal - The safer, easier way to pay online!">Buy Now</button>
 							<p class="pay-pal"><sub>*You will be redirected to PayPal</sub></p>
 						</form>-->
@@ -54,8 +54,8 @@
 		<section class="product-details grey-bg clearfix">
 			<div class="left left-col">
 				<article class="prod-desc">
-					<h4>Stereo Blumlein Bar</h4>
-					<p>Stereo microphone attachment.</p>
+					<h4>Fat Head II / Vin-Jet Microphone Shockmount</h4>
+					<p>For use with Fat Head II, Vin-Jet Microphones and similar sized microphones. Fits larger body style of the new Fat Head II model and all Vin-Jet Microphones.</p>
 					
 				</article>
 
@@ -66,13 +66,13 @@
 					<div class="prod-specs-list">
 						<ul>
 							<li class="prod-specs-list-cell">Type</li>
-							<li class="prod-specs-list-cell">Stereo Blumlein Bar</li>
+							<li class="prod-specs-list-cell">Metal Microphone Shockmount</li>
 						</ul>
 					</div>
 					<div class="prod-includes">
 						<h4>Included</h4>
 						<ul>
-							<li>Stereo Blumlein Bar</li>
+							<li>Microphone Shockmount</li>
 						</ul>
 					</div>
 				</article>
@@ -146,4 +146,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>

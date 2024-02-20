@@ -36,7 +36,7 @@
 			
 			<!-- FAT HEAD II -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-ii" class="img-href">
+				<a href="products/ribbon-microphone-fat-head-ii" class="img-href">
 					<img src="images/prod-images/fat-head-ii/fat-head-ii-main-brown.png" alt="Fat Head II Ribbon Microphone Product Image" />
 				</a>
 
@@ -51,13 +51,13 @@
 						<li>Award winner</li> 
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- FAT HEAD II Stereo -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-ii-stereo" class="img-href"> 
+				<a href="products/ribbon-microphone-fat-head-ii-stereo" class="img-href"> 
 					<img src="images/prod-images/fat-head-ii-stereo/fat-head-ii-stereo-main-brown.png" alt="Fat Head II Ribbon Microphone Stereo Pair Product Image" />
 				</a>
 				
@@ -72,13 +72,13 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-ii-stereo" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-ii-stereo" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- FAT HEAD -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head" class="img-href">
+				<a href="products/ribbon-microphone-fat-head" class="img-href">
 					<img src="images/prod-images/fat-head/fat-head-main-black.png" alt="Fat Head Ribbon Microphone Product Image" />
 				</a>
 				
@@ -92,13 +92,13 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- FAT HEAD STEREO -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-stereo" class="img-href">
+				<a href="products/ribbon-microphone-fat-head-stereo" class="img-href">
 					<img src="images/prod-images/fat-head-stereo/fat-head-stereo-main-black.png" alt="Fat Head Ribbon Microphone Stereo Pair Product Image" />
 				</a>
 				
@@ -113,13 +113,13 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-stereo" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-stereo" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- FAT HEAD BE -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-be" class="img-href">
+				<a href="products/ribbon-microphone-fat-head-be" class="img-href">
 					<img src="images/prod-images/fat-head-be/fat-head-be-main.png" alt="Fat Head BE Ribbon Microphone Product Image" />
 				</a>
 				
@@ -131,13 +131,13 @@
 						<li>Same design and ribbon as our other FAT HEAD mic's</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-be" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-be" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- FAT HEAD BE STEREO -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-be-stereo" class="img-href">
+				<a href="products/ribbon-microphone-fat-head-be-stereo" class="img-href">
 					<img src="images/prod-images/fat-head-be-stereo/fat-head-be-stereo-main.png" alt="Fat Head BE Ribbon Microphone Stereo Pair Product Image" />
 				</a>
 				
@@ -149,7 +149,7 @@
 						<li>Famous warm tone</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-be-stereo" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-be-stereo" class="primary-btn">Shop Now</a>
 			</article>
 
 
@@ -165,7 +165,7 @@
 
 			<!-- VIN JET -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-vin-jet" class="img-href">
+				<a href="products/ribbon-microphone-vin-jet" class="img-href">
 					<img src="images/prod-images/vin-jet/vin-jet-main-stock.png" alt="Vin-Jet Ribbon Microphone Product Image" />
 				</a>
 
@@ -179,13 +179,13 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- VIN JET STEREO -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-vin-jet-stereo" class="img-href">
+				<a href="products/ribbon-microphone-vin-jet-stereo" class="img-href">
 					<img src="images/prod-images/vin-jet-stereo/vin-jet-stereo-main.png" alt="Vin-Jet Ribbon Microphone Stereo Pair Product Image" />
 				</a>
 
@@ -199,7 +199,7 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-vin-jet-stereo" class="primary-btn">Shop Now</a>
+				<a href="products/ibbon-microphone-vin-jet-stereo" class="primary-btn">Shop Now</a>
 			</article>
 
 
@@ -212,12 +212,12 @@
 		<section class="microphones clearfix">
 			
 			<!-- FAT HEAD II ACTIVE/PASSIVE -->
-			<article class="featured-prod clearfix grey-bg">
+			<article class="products/featured-prod clearfix grey-bg">
 				<a href="ribbon-microphone-fat-head-ii-active-passive" class="img-href">
 					<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-main-black.png" alt="Fat Head II Active/Passive Ribbon Microphone Product Image" />
 				</a>
 				
-				<div class="featured-prod-details">
+				<div class="products/featured-prod-details">
 					<h2>Fat Head II Active/Passive</h2>
 					<h4>Short Ribbon Microphone</h4>
 					<ul>
@@ -227,13 +227,13 @@
 						<li>World class technology</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- X15-STEREO SHORT RIBBON -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-x15-stereo-short-ribbon" class="img-href">
+				<a href="products/ribbon-microphone-x15-stereo-short-ribbon" class="img-href">
 					<img src="images/prod-images/x15-stereo/x15-stereo-main.png" alt="X15 Ribbon Microphone Product Image" />
 				</a>
 				
@@ -248,14 +248,14 @@
 						<li>Award winner</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
 			</article>
 
 
 
 			<!-- KNUCKLE HEAD ANTIQUE COPPER -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-knuckle-head" class="img-href">
+				<a href="products/ribbon-microphone-knuckle-head" class="img-href">
 					<img src="images/prod-images/knuckle-head/knuckle-head-main.png" alt="Knuckle Head Ribbon Microphone Product Image" />
 				</a>
 				
@@ -269,7 +269,7 @@
 						<li>Upgradeable to Lundahl LL2912 transformer</li>
 					</ul>
 				</div>
-				<a href="ribbon-microphone-knuckle-head" class="primary-btn">Shop Now</a>
+				<a href="products/ribbon-microphone-knuckle-head" class="primary-btn">Shop Now</a>
 			</article>
 
 
@@ -288,7 +288,7 @@
 
 			<!-- FAT HEAD II Shockmount Current-->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="accessories-fat-head-ii-vin-jet-microphone-shockmount" class="img-href">
+				<a href="products/accessories-fat-head-ii-vin-jet-microphone-shockmount" class="img-href">
 					<img src="images/prod-images/fat-head-ii-shockmount-curr/fat-head-ii-shockmount-curr-main.png" alt="Fat Head II Ribbon Microphone Shock Mount Product Image" />
 				</a>
 				
@@ -300,14 +300,14 @@
 						<li>Fits larger body style of the new Fat Head II model</li>
 					</ul>
 				</div>
-				<a href="accessories-fat-head-ii-vin-jet-microphone-shockmount" class="primary-btn">Shop Now</a>
+				<a href="products/accessories-fat-head-ii-vin-jet-microphone-shockmount" class="primary-btn">Shop Now</a>
 			</article>
 
 
 			<!-- Fat Head Shockmount -->
 			
 			<article class="featured-prod clearfix grey-bg">
-				<a href="accessories-fat-head-shockmounth" class="img-href">
+				<a href="products/accessories-fat-head-shockmounth" class="img-href">
 					<img src="images/prod-images/fat-head-shockmount/fat-head-shockmount-main.png" alt="Fat Head Ribbon Microphone Shock Mount Product Image" />
 				</a>
 				
@@ -319,7 +319,7 @@
 						<li>25mm Universal Microphone Shockmount</li>
 					</ul>
 				</div>
-				<a href="accessories-fat-head-shockmounth" class="primary-btn">Shop Now</a>
+				<a href="products/accessories-fat-head-shockmounth" class="primary-btn">Shop Now</a>
 			</article>
 
 
@@ -346,7 +346,7 @@
 
 			<!-- Stereo Blumlein Bar -->
 			<article class="featured-prod clearfix grey-bg">
-				<a href="accessories-stereo-blumlein-bar" class="img-href">
+				<a href="products/accessories-stereo-blumlein-bar" class="img-href">
 					<img src="images/prod-images/blumlein-bar/blumlein-bar-main.png" alt="Stereo Blumlein Bar for Ribbon Microphones Product Image" />
 				</a>
 				
@@ -357,7 +357,7 @@
 						<li>Stereo microphone attachment</li>
 					</ul>
 				</div>
-				<a href="accessories-stereo-blumlein-bar" class="primary-btn">Shop Now</a>
+				<a href="products/accessories-stereo-blumlein-bar" class="primary-btn">Shop Now</a>
 			</article>
 			
 

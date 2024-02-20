@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
 <head>
-	<title>Fat Head Stereo Pair Ribbon Microphone | Cascade Ribbon Microphones</title>
-	<meta name="description" content="The Cascade Fat Head Ribbon Microphone Stereo Pair is the go-to microphone for recording guitar. Often described as the best value in pro audio."/>
+	<title>Fat Head Ribbon Microphone | Cascade Ribbon Microphones</title>
+	<meta name="description" content="The Cascade Fat Head Ribbon Microphone is the go-to microphone for recording guitar. Often described as the best value in pro audio."/>
 
 
 	<?php
-		include('header.php'); 
+		include('../header.php'); 
 	?>
 	<script>
 		var page = 'Microphones';
@@ -16,7 +16,7 @@
 	<div class="minMax">
 	
 		<div class="breadcrumbs">
-			<p><a href="microphones">Microphones</a> > Fat Head Stereo Pair</p>
+			<p><a href="microphones">Microphones</a> > Fat Head</p>
 		</div>
 
 
@@ -24,28 +24,28 @@
 		<section class="prod-buy clearfix">
 			<div class="prod-buy-photos left clearfix">
 				<div class="prod-large-photo right">
-					<img src="images/prod-images/fat-head-stereo/fat-head-stereo-main-black.png" alt="Ribbon Microphone Fat Head Stereo Pair Product Image" />
+					<img src="../images/prod-images/fat-head/fat-head-main-black.png" alt="Ribbon Microphone Fat Head Product Photo" />
 				</div>
 				<div class="prod-photos-index right">
 					<ul class="clearfix">
 						<li>
-							<a href="images/prod-images/fat-head-stereo/fat-head-ribbon-microphone-980‐B-A-1.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-stereo/fat-head-stereo-thumb-1.jpg" alt="Ribbon Microphone Fat Head Stereo Pair Product Image Thumb 1"  />
+							<a href="../images/prod-images/fat-head/fat-head-ribbon-microphone-98-B-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head/fat-head-thumb-1.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 1" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-stereo/fat-head-ribbon-microphone-980‐B-A-2.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-stereo/fat-head-stereo-thumb-2.jpg" alt="Ribbon Microphone Fat Head Stereo Pair Product Image Thumb 2"  />
+							<a href="../images/prod-images/fat-head/fat-head-ribbon-microphone-98-B-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head/fat-head-thumb-2.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 2" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-stereo/fat-head-ribbon-microphone-980‐G-A-3.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-stereo/fat-head-stereo-thumb-3.jpg" alt="Ribbon Microphone Fat Head Stereo Pair Product Image Thumb 3"  />
+							<a href="../images/prod-images/fat-head/fat-head-ribbon-microphone-98-G-A-1.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head/fat-head-thumb-3.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 3" />
 							</a>
 						</li>
 						<li>
-							<a href="images/prod-images/fat-head-stereo/fat-head-ribbon-microphone-980‐G-A-4.jpg" data-featherlight="image" class="gallery">
-								<img src="images/prod-images/fat-head-stereo/fat-head-stereo-thumb-4.jpg" alt="Ribbon Microphone Fat Head Stereo Pair Product Image Thumb 4"  />
+							<a href="../images/prod-images/fat-head/fat-head-ribbon-microphone-98-G-A-2.jpg" data-featherlight="image" class="gallery">
+								<img src="../images/prod-images/fat-head/fat-head-thumb-4.jpg" alt="Ribbon Microphone Fat Head Product Photo Thumb 4" />
 							</a>
 						</li>
 					</ul>
@@ -53,21 +53,21 @@
 			</div>
 			<div class="prod-buy-details right">
 				<div class="prod-buy-details-vert">
-					<h1>Fat Head <span>Stereo Pair <br />
-					Ribbon Microphone</span></h1>
+					<h1>Fat Head <br />
+					<span>Ribbon Microphone</span></h1>
 					<h4>The Famous Short Ribbon Microphone</h4>
 					<div class="prod-buy-form">
 						<!--<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 							<p class="select-color">Select color</p>
 							<select class="dropkick" name="os0">
-								<option value="Brown Body/Gold Grill">Brown Body/Gold Grill $519.00</option>
-								<option value="Black Body/Silver Grill">Black Body/Silver Grill $519.00</option>
+								<option value="Brown Body/Gold Grill">Brown Body/Gold Grill $229.00</option>
+								<option value="Black Body/Silver Grill">Black Body/Silver Grill $229.00</option>
 							</select>
 							<input type="hidden" name="cmd" value="_s-xclick">
-							<input type="hidden" name="hosted_button_id" value="GCNZEG5QJUJXJ">
-							<input type="hidden" name="on0" value="Choose Color">
-							<input type="hidden" name="currency_code" value="USD">
-							<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
+							<input type="hidden" name="hosted_button_id" value="CTRXZBW66R4DU">
+				            <input type="hidden" name="on0" value="Choose Color">
+				            <input type="hidden" name="currency_code" value="USD">
+				            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" alt="">
 							<button class="primary-btn" name="submit" alt="PayPal - The safer, easier way to pay online!">Buy Now</button>
 							<p class="pay-pal"><sub>*You will be redirected to PayPal</sub></p>
 						</form>-->
@@ -81,40 +81,35 @@
 		<section class="product-details grey-bg clearfix">
 			<div class="left left-col">
 				<article class="prod-desc">
-					<h4>Fat Head Stereo Pair Details</h4>
-
-					<p class="special-note">Often described as the best value in pro audio, we offer a stereo package of our famous FAT HEAD microphones. Our stereo pairs include a Blumlein Stereo Bar that makes mid-side setups a snap.  Discover the true magic of ribbon microphones by using them in pairs.</p>
-
+					<h4>Fat Head Details</h4>
 					<p>Unlike most ribbon motors designed today with an offset ribbon the new Cascade FAT HEAD houses a hand-tuned ribbon element that incorporates the legendary symmetrical ribbon design.</p>
 
 					<p>This design offers a true figure 8 pattern. The corrugated aluminum membrane itself is positioned in the center from front to back, thus producing a balanced audio input signal to both sides of the ribbon assembly.</p>
 
 					<p>This design is very useful when executing a mid-side or Blumlein recording set-up and also great for live stage use. The FAT HEAD warm full-bodied signature and increased sensitivity is what you would expect and demand from a professional ribbon microphone and the FAT HEAD delivers. The FAT HEAD is suited for guitar cabinets, drum over-heads, vocal, piano, horns, strings, and much more.</p>
-				
-
 				</article>
 
 				<article class="prod-applications">
 					<h4>Suggested Applications</h4>
 					<ul class="clearfix">
 						<li class="tooltip">
-							<img src="images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon"  />
+							<img src="../images/application-icons/drums.png" alt="Ribbon Microphone Application Uses - Drums Icon" />
 							<span class="tooltiptext">Drums</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
+							<img src="../images/application-icons/guitar.png" alt="Ribbon Microphone Application Uses - Guitar Icon" />
 							<span class="tooltiptext">Electric/Acoustic Guitar</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
+							<img src="../images/application-icons/strings.png" alt="Ribbon Microphone Application Uses - Strings Icon" />
 							<span class="tooltiptext">Stringed Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
+							<img src="../images/application-icons/trumpet.png" alt="Ribbon Microphone Application Uses - Horns Icon" />
 							<span class="tooltiptext">Horn Instruments</span>
 						</li>
 						<li class="tooltip">
-							<img src="images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Banjos Icon" />
+							<img src="../images/application-icons/banjo.png" alt="Ribbon Microphone Application Uses - Bajo Icon" />
 							<span class="tooltiptext">Banjo</span>
 						</li>
 					</ul>
@@ -123,7 +118,7 @@
 				<article class="prod-audio-video">
 					<h4>Audio/Video</h4>
 					<div class="video-player">
-						<img src="images/hp-featured-videos/hp-featured-video-01-large.jpg" alt="Ribbon Microphone Fat Head Stereo Video Sample Still Photo" />
+						<img src="../images/hp-featured-videos/hp-featured-video-01-large.jpg" alt="Ribbon Microphone Fat Head Video Sample Still Photo" />
 						<div id="player"></div>
 					</div>
 				</article>
@@ -176,10 +171,10 @@
 					<div class="prod-includes">
 						<h4>Included</h4>
 						<ul>
-							<li>2 x FAT HEAD ribbon microphone</li>
-							<li>2 x shockmount</li>
-							<li>Blumlein stereo bar</li>
-							<li>Aluminum flight case</li>
+							<li>FAT HEAD Ribbon Microphone</li>
+							<li>Mic Clip</li>
+							<li>Leatherette Pouch</li>
+							<li>Molded Flight case</li>
 						</ul>
 					</div>
 				</article>
@@ -253,4 +248,4 @@
 
 </script>
 
-<? include('footer.php') ?>
+<? include('../footer.php') ?>
