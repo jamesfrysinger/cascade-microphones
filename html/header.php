@@ -13,10 +13,10 @@
 	<meta property="og:url" content="https://www.cascademicrophones.com/">
 	<meta property="og:description" content="Cascade Microphones offer the highest quality hand-built professional ribbon microphones used by professional studios and musicians around the world.">
 	<meta property="og:type" content="product">
-	<meta property="og:image" content="<?php echo $basePath ?>/images/og-tag-images/cascade-microphones-og-tag-image-01.jpg">
-	<meta property="og:image" content="<?php echo $basePath ?>/images/og-tag-images/cascade-microphones-og-tag-image-02.jpg">
-	<meta property="og:image" content="<?php echo $basePath ?>/images/og-tag-images/cascade-microphones-og-tag-image-03.jpg">
-	<meta property="og:image" content="<?php echo $basePath ?>/images/og-tag-images/cascade-microphones-og-tag-image-04.jpg">
+	<meta property="og:image" content="https://www.cascademicrophones.com/images/og-tag-images/cascade-microphones-og-tag-image-01.jpg">
+	<meta property="og:image" content="https://www.cascademicrophones.com/images/og-tag-images/cascade-microphones-og-tag-image-02.jpg">
+	<meta property="og:image" content="https://www.cascademicrophones.com/images/og-tag-images/cascade-microphones-og-tag-image-03.jpg">
+	<meta property="og:image" content="https://www.cascademicrophones.com/images/og-tag-images/cascade-microphones-og-tag-image-04.jpg">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="<?php echo $basePath ?>images/favicon/apple-icon-57x57.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="<?php echo $basePath ?>images/favicon/apple-icon-60x60.png">
