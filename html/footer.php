@@ -1,47 +1,48 @@
+
 	<footer>
 		<div class="minMax clearfix">
 			<nav class="left footer-nav">
 				<ul class="left footer-navigation">
 					<li class="footer-nav-item">
-						<a href="microphones">Microphones</a>
+						<a href="<?php echo $basePath ?>microphones">Microphones</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="audio-video">Audio/Video</a>
+						<a href="<?php echo $basePath ?>audio-video">Audio/Video</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="custom-shop">Custom Shop</a>
+						<a href="<?php echo $basePath ?>custom-shop">Custom Shop</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="custom-shop#ribbon">Ribbon Replacement</a>
+						<a href="<?php echo $basePath ?>custom-shop#ribbon">Ribbon Replacement</a>
 					</li>
 					
 					<li class="footer-nav-item">
-						<a href="about-us">About Us</a>
+						<a href="<?php echo $basePath ?>about-us">About Us</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="about-us#contact-us">Contact Us</a>
+						<a href="<?php echo $basePath ?>about-us#contact-us">Contact Us</a>
 					</li>
 				</ul>
 				<ul class="left footer-navigation">
 					
 					
 					<li class="footer-nav-item">
-						<a href="faq">FAQ</a>
+						<a href="<?php echo $basePath ?>faq">FAQ</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="reviews">Reviews</a>
+						<a href="<?php echo $basePath ?>reviews">Reviews</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="friends">Friends</a>
+						<a href="<?php echo $basePath ?>friends">Friends</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="warranty">Warranty</a>
+						<a href="<?php echo $basePath ?>warranty">Warranty</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="dealers">Dealers</a>
+						<a href="<?php echo $basePath ?>dealers">Dealers</a>
 					</li>
 					<li class="footer-nav-item">
-						<a href="policies">Policies</a>
+						<a href="<?php echo $basePath ?>policies">Policies</a>
 					</li>
 				</ul>
 			</nav>
@@ -71,13 +72,13 @@
 			</div>
 		</div>
 	</footer>
-	<script src="js/jquery-3.4.0.min.js"></script>
-	<script src="js/modernizr-custom.js"></script>
-	<script src="js/dropkick.js"></script>
-	<script src="js/featherlight.min.js"></script>
-	<script src="js/featherlight.gallery.min.js"></script>
-	<script src="js/green-audio-player.min.js"></script>
-	<script src="js/scripts.js?v=1.1"></script>
+	<script src="<?php echo $basePath ?>js/jquery-3.4.0.min.js"></script>
+	<script src="<?php echo $basePath ?>js/modernizr-custom.js"></script>
+	<script src="<?php echo $basePath ?>js/dropkick.js"></script>
+	<script src="<?php echo $basePath ?>js/featherlight.min.js"></script>
+	<script src="<?php echo $basePath ?>js/featherlight.gallery.min.js"></script>
+	<script src="<?php echo $basePath ?>js/green-audio-player.min.js"></script>
+	<script src="<?php echo $basePath ?>js/scripts.js?v=1.1"></script>
 
 <script type="application/ld+json">
 {
