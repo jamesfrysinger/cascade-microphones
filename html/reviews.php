@@ -25,10 +25,10 @@
 			<article class="two-col-featured-prod clearfix grey-bg">
 
 				<div class="two-col-featured-prod-desc">
-					<a href="ribbon-microphone-fat-head-ii">
+					<a href="products/ribbon-microphone-fat-head-ii">
 						<img src="images/reviews/fat-head-series.png" alt="Ribbon Microphone Fat Head Series Product Photos" />
 					</a>
-					<a href="ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">
@@ -79,10 +79,10 @@
 			<article class="two-col-featured-prod clearfix grey-bg">
 
 				<div class="two-col-featured-prod-desc">
-					<a href="ribbon-microphone-fat-head-ii-active-passive">
+					<a href="products/ribbon-microphone-fat-head-ii-active-passive">
 						<img src="images/reviews/fat-head-ii-active-passive.png" alt="Ribbon Microphone Fat Head II Active/Passive Series Product Photos" />
 					</a>
-					<a href="ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
 				</div>
 
 				
@@ -118,10 +118,10 @@
 			<article class="two-col-featured-prod clearfix grey-bg">
 
 				<div class="two-col-featured-prod-desc">
-					<a href="ribbon-microphone-x15-stereo-short-ribbon">
+					<a href="products/ribbon-microphone-x15-stereo-short-ribbon">
 						<img src="images/reviews/x15-stereo.png" alt="Ribbon Microphone X15 Series Product Photos" />
 					</a>
-					<a href="ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">

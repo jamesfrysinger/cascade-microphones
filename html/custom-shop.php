@@ -60,12 +60,12 @@
 				<div class="two-col-featured-prod-audio">
 					<h3>Compatibility</h3>
 					<ul>
-						<li><a href="ribbon-microphone-fat-head">Fat Head</a></li>
-						<li><a href="ribbon-microphone-fat-head-stereo">Fat Head (Stereo Pair)</a></li>
-						<li><a href="ribbon-microphone-fat-head-be">Fat Head BE</a></li>
-						<li><a href="ribbon-microphone-fat-head-be-stereo">Fat Head BE (Stereo Pair)</a></li>
-						<li><a href="ribbon-microphone-knuckle-head">Knuckle Head</a></li>
-						<li><a href="ribbon-microphone-x15-stereo-short-ribbon">X15 Stereo</a></li>
+						<li><a href="products/ribbon-microphone-fat-head">Fat Head</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-stereo">Fat Head (Stereo Pair)</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-be">Fat Head BE</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-be-stereo">Fat Head BE (Stereo Pair)</a></li>
+						<li><a href="products/ribbon-microphone-knuckle-head">Knuckle Head</a></li>
+						<li><a href="products/ribbon-microphone-x15-stereo-short-ribbon">X15 Stereo</a></li>
 					</ul>
 
 				</div>
@@ -119,10 +119,10 @@
 				<div class="two-col-featured-prod-audio">
 					<h3>Compatibility</h3>
 					<ul>
-						<li><a href="ribbon-microphone-fat-head-ii">Fat Head II</a></li>
-						<li><a href="ribbon-microphone-fat-head-ii-stereo">Fat Head II (Stereo Pair)</a></li>
-						<li><a href="ribbon-microphone-vin-jet">Vin-Jet</a></li>
-						<li><a href="ribbon-microphone-vin-jet-stereo">Vin-Jet (Stereo Pair)</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-ii">Fat Head II</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-ii-stereo">Fat Head II (Stereo Pair)</a></li>
+						<li><a href="products/ribbon-microphone-vin-jet">Vin-Jet</a></li>
+						<li><a href="products/ribbon-microphone-vin-jet-stereo">Vin-Jet (Stereo Pair)</a></li>
 					</ul>
 
 				</div>
@@ -184,11 +184,11 @@
 				<div class="two-col-featured-prod-audio">
 					<h3>Compatibility</h3>
 					<ul>
-						<li><a href="ribbon-microphone-fat-head">Fat Head</a></li>
-						<li><a href="ribbon-microphone-fat-head-ii">Fat Head II</a></li>
-						<li><a href="ribbon-microphone-fat-head-be">Fat Head BE</a></li>
-						<li><a href="ribbon-microphone-fat-head-ii-active-passive">Fat Head II Active/Passive</a></li>
-						<li><a href="ribbon-microphone-knuckle-head">Knuckle Head</a></li>
+						<li><a href="products/ribbon-microphone-fat-head">Fat Head</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-ii">Fat Head II</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-be">Fat Head BE</a></li>
+						<li><a href="products/ribbon-microphone-fat-head-ii-active-passive">Fat Head II Active/Passive</a></li>
+						<li><a href="products/ribbon-microphone-knuckle-head">Knuckle Head</a></li>
 					</ul>
 
 				</div>
@@ -235,7 +235,7 @@
 				<div class="two-col-featured-prod-audio">
 					<h3>Compatibility</h3>
 					<ul>
-						<li><a href="ribbon-microphone-vin-jet">Vin-Jet</a></li>
+						<li><a href="products/ribbon-microphone-vin-jet">Vin-Jet</a></li>
 					</ul>
 
 				</div>
@@ -281,7 +281,7 @@
 				<div class="two-col-featured-prod-audio">
 					<h3>Compatibility</h3>
 					<ul>
-						<li><a href="ribbon-microphone-x15-stereo-short-ribbon">X15 Stereo Microphone</a></li>
+						<li><a href="products/ribbon-microphone-x15-stereo-short-ribbon">X15 Stereo Microphone</a></li>
 					</ul>
 
 				</div>

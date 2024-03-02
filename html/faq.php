@@ -22,7 +22,7 @@
 				<h1>FAQ</h1>
 				<div class="faq-copy">
 					<p><strong>What are the differences between the FAT HEAD and FAT HEAD II?</strong><br />
-					The <a href="ribbon-microphone-fat-head-ii">FAT HEAD II</a> body diameter is larger and longer in length. It comes with a heavy-duty premium shockmount to accommodate for the larger body. The <a href="ribbon-microphone-fat-head-ii">FAT HEAD II</a> and <a href="ribbon-microphone-fat-head">FAT HEAD</a> are sonically the same.</p>
+					The <a href="products/ribbon-microphone-fat-head-ii">FAT HEAD II</a> body diameter is larger and longer in length. It comes with a heavy-duty premium shockmount to accommodate for the larger body. The <a href="products/ribbon-microphone-fat-head-ii">FAT HEAD II</a> and <a href="products/ribbon-microphone-fat-head">FAT HEAD</a> are sonically the same.</p>
 
 					 
 

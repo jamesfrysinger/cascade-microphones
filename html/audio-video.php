@@ -38,10 +38,10 @@
 
 				<div class="two-col-featured-prod-desc">
 					<h2>Fat Head II <br /><span>w/ Lundahl Transformer</span></h2>
-					<a href="ribbon-microphone-fat-head-ii">
+					<a href="products/ribbon-microphone-fat-head-ii">
 						<img src="images/av-prod-img/fat-head-ii.png" alt="Fat Head II Ribbon Microphone Product Photo" />
 					</a>
-					<a href="ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">
@@ -133,10 +133,10 @@
 
 				<div class="two-col-featured-prod-desc">
 					<h2>Fat Head<br /><span></span></h2>
-					<a href="ribbon-microphone-fat-head">
+					<a href="products/ribbon-microphone-fat-head">
 						<img src="images/av-prod-img/fat-head.png" alt="Fat Head Ribbon Microphone Product Image" />
 					</a>
-					<a href="ribbon-microphone-fat-head" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-fat-head" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">
@@ -379,10 +379,10 @@
 
 				<div class="two-col-featured-prod-desc">
 					<h2>Vin-Jet<br /><span></span></h2>
-					<a href="ribbon-microphone-vin-jet">
+					<a href="products/ribbon-microphone-vin-jet">
 						<img src="images/av-prod-img/vin-jet.png" alt="Vin-Jet Ribbon Microphone Product Image" />
 					</a>
-					<a href="ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">
@@ -539,10 +539,10 @@
 
 				<div class="two-col-featured-prod-desc">
 					<h2>X15 Stereo<br /><span></span></h2>
-					<a href="ribbon-microphone-x15-stereo-short-ribbon">
+					<a href="products/ribbon-microphone-x15-stereo-short-ribbon">
 						<img src="images/av-prod-img/x15-stereo.png" alt="X15 Ribbon Microphone Product Image"/>
 					</a>
-					<a href="ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-x15-stereo-short-ribbon" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">
@@ -601,10 +601,10 @@
 
 				<div class="two-col-featured-prod-desc">
 					<h2>Fat Head II<br /><span>Active/Passive</span></h2>
-					<a href="ribbon-microphone-fat-head-ii-active-passive">
+					<a href="products/ribbon-microphone-fat-head-ii-active-passive">
 						<img src="images/av-prod-img/fat-head-ii-active-passive.png" alt="Fat Head II Active/Passive Ribbon Microphone Product Image" />
 					</a>
-					<a href="ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
+					<a href="products/ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
 				</div>
 
 				<div class="two-col-featured-prod-audio">

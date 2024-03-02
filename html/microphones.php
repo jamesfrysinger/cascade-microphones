@@ -213,7 +213,7 @@
 			
 			<!-- FAT HEAD II ACTIVE/PASSIVE -->
 			<article class="products/featured-prod clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head-ii-active-passive" class="img-href">
+				<a href="products/ribbon-microphone-fat-head-ii-active-passive" class="img-href">
 					<img src="images/prod-images/fat-head-ii-active-passive/fat-head-ii-active-passive-main-black.png" alt="Fat Head II Active/Passive Ribbon Microphone Product Image" />
 				</a>
 				

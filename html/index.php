@@ -43,47 +43,47 @@
 			<p>Featured Series | <a href="microphones">See more microphones</a></p>
 			<div class="four-card-group clearfix">
 				<article class="card new left grey-bg">
-					<a href="ribbon-microphone-fat-head-ii">
+					<a href="products/ribbon-microphone-fat-head-ii">
 						<img src="images/hp-featured-series/hp-featured-series-fat-head-ii.png" alt="Fat Head II Short Ribbon Microphone Product Photo" />
 					</a>
 					<div class="card-details">
 						<h5><strong>Fat Head  II</strong><br />
 						Short Ribbon</h5>
-						<a href="ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
-						<a href="ribbon-microphone-fat-head-ii">Learn more</a>
+						<a href="products/ribbon-microphone-fat-head-ii" class="primary-btn">Shop Now</a>
+						<a href="products/ribbon-microphone-fat-head-ii">Learn more</a>
 					</div>
 				</article>
 				<article class="card left grey-bg">
-					<a href="ribbon-microphone-fat-head-ii-active-passive">
+					<a href="products/ribbon-microphone-fat-head-ii-active-passive">
 						<img src="images/hp-featured-series/hp-featured-series-fat-head-ii-active-passive.png" alt="Fat Head II Active/Passive Short Ribbon Microphone Product Photo" />
 					</a>
 					<div class="card-details">
 						<h5><strong>Fat Head II</strong><br />
 						Active/Passive</h5>
-						<a href="ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
-						<a href="ribbon-microphone-fat-head-ii-active-passive">Learn more</a>
+						<a href="products/ribbon-microphone-fat-head-ii-active-passive" class="primary-btn">Shop Now</a>
+						<a href="products/ribbon-microphone-fat-head-ii-active-passive">Learn more</a>
 					</div>
 				</article>
 				<article class="card left grey-bg">
-					<a href="ribbon-microphone-fat-head-be">
+					<a href="products/ribbon-microphone-fat-head-be">
 						<img src="images/hp-featured-series/hp-featured-fathead-be_2.png" alt="X15 Ribbon Microphone Product Photo" />
 					</a>
 					<div class="card-details">
 						<h5><strong>Fathead BE (In stock)</strong><br />
 						Short Ribbon</h5>
-						<a href="ribbon-microphone-fat-head-be" class="primary-btn">Shop Now</a>
-						<a href="ribbon-microphone-fat-head-be">Learn more</a>
+						<a href="products/ribbon-microphone-fat-head-be" class="primary-btn">Shop Now</a>
+						<a href="products/ribbon-microphone-fat-head-be">Learn more</a>
 					</div>
 				</article>
 				<article class="card left grey-bg">
-					<a href="ribbon-microphone-vin-jet">
+					<a href="products/ribbon-microphone-vin-jet">
 						<img src="images/hp-featured-series/hp-featured-series-vin-jet.png" alt="Vin-Jet Long Ribbon Microphone Product Photo" />
 					</a>
 					<div class="card-details">
 						<h5><strong>Vin-Jet</strong><br />
 						Long Ribbon</h5>
-						<a href="ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
-						<a href="ribbon-microphone-vin-jet">Learn more</a>
+						<a href="products/ribbon-microphone-vin-jet" class="primary-btn">Shop Now</a>
+						<a href="products/ribbon-microphone-vin-jet">Learn more</a>
 					</div>
 				</article>
 				
@@ -94,26 +94,26 @@
 		<section>
 
 			<article class="featured-prod left-align clearfix grey-bg">
-				<a href="ribbon-microphone-fat-head" class="img-href">
+				<a href="products/ribbon-microphone-fat-head" class="img-href">
 					<img src="images/hp-featured-mics/hp-featured-fat-head.png" alt="Fat Head Short Ribbon Microphone Product Photo" />
 				</a>
 				<div class="featured-prod-details">
 					<h2>Fat Head</h2>
 					<h4>The Famous Short Ribbon Microphone</h4>
 					<p>One of the most popular and best sounding ribbon microphones on the market. Unlike most ribbon motors designed today with an offset ribbon the new Cascade Fat Head houses a hand-tuned ribbon element that incorporates the legendary symmetrical ribbon design.</p>
-					<a href="ribbon-microphone-fat-head">Learn more</a>
+					<a href="products/ribbon-microphone-fat-head">Learn more</a>
 				</div>
 			</article>
 
 			<article class="featured-prod right-align clearfix grey-bg">
-				<a href="ribbon-microphone-knuckle-head" class="img-href">
+				<a href="products/ribbon-microphone-knuckle-head" class="img-href">
 					<img src="images/hp-featured-mics/hp-featured-knuckle-head.png" alt="Knuckle Head Short Ribbon Microphone Product Photo" />
 				</a>
 				<div class="featured-prod-details">
 					<h2>Knuckle Head</h2>
 					<h4>Short Ribbon Microphone Vintage Style Deluxe Tone</h4>
 					<p>The Cascade Knuckle Head is a passive ribbon microphone that combines the acoustic components of the successful Fat Head ribbon with a shockmounted headbasket design reminiscent of early broadcast microphones.</p>
-					<a href="ribbon-microphone-knuckle-head">Learn more</a>
+					<a href="products/ribbon-microphone-knuckle-head">Learn more</a>
 				</div>
 			</article>
 
